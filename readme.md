@@ -12,7 +12,7 @@ The `StaticParams` class provides a structured way to manage query parameters fo
 
 Use any preffered package manager:
 
-npm i static-query-params@latest
+`npm i static-query-params@latest`
 
 ## Usage
 
