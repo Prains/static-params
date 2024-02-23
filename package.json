@@ -1,0 +1,19 @@
+{
+  "name": "static-query-params",
+  "version": "1.0.0",
+  "description": "generate static params configs and use them to control your query params state",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prains/static-params.git"
+  },
+  "author": "Prai'ns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prains/static-params/issues"
+  },
+  "homepage": "https://github.com/Prains/static-params#readme"
+}

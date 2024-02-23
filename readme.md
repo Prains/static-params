@@ -10,7 +10,9 @@ The `StaticParams` class provides a structured way to manage query parameters fo
 
 ## Installation
 
-As this is a TypeScript class, ensure that your project is set up to compile TypeScript. Then, include the `StaticParams` class in your project by copying the provided TypeScript code into a file in your project, for example, `StaticParams.ts`.
+Use any preffered package manager:
+
+npm i static-query-params@latest
 
 ## Usage
 
